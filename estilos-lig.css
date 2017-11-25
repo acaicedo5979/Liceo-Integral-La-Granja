@@ -53,6 +53,10 @@ font-family: 'Libre Baskerville', serif!important;
 
 }
 
+.logo-header {
+  padding: 5px;
+}
+
 .lig {
   max-width: 250px;
 }
@@ -60,6 +64,23 @@ font-family: 'Libre Baskerville', serif!important;
 nav {
   background-color: #213E9A;
   color: white;
+}
+
+.texto-logo {
+  margin-bottom: 0px;
+}
+
+nav .menu-items {
+  padding: 15px; 
+}
+
+nav li{
+  padding: 8px; 
+}
+
+nav ul {
+  width: 50%; 
+  margin: 0 auto;
 }
 
 img { 
